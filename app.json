@@ -31,7 +31,8 @@
   },
   "formation": {
     "web": {
-      "quantity": 0
+      "quantity": 0,
+      "size": "hobby"
     },
     "worker": {
       "quantity": 1,
